@@ -1,4 +1,4 @@
-module github.com/messaging-go/integration-template
+module github.com/messaging-go/rabbitmq
 
 go 1.26.4
 
